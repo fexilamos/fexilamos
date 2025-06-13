@@ -18,9 +18,6 @@ My GitHub features practical academic projects such as:
 - **Mobile:** Kotlin, ViewBinding, SQLite  
 - **Other tools:** Git, VS Code, Android Studio
 
-## 📸 Photographer & Editor
-
-With over 18 years of experience, I’ve worked as a **photographer** and **senior image editor** across social, editorial, and corporate projects.
 
 ## 🌍 Let’s Connect
 
