@@ -7,7 +7,7 @@ I'm a passionate **developer in progress** with a solid background in **photogra
 I'm currently working on full-stack and mobile applications using **Laravel**, **MySQL**, and **Kotlin**, with a focus on usability and clean code.
 
 My GitHub features practical academic projects such as:
-- 🚗 [**alugar_carros**](https://github.com/fexilamos/drivepoint) – A Laravel-based vehicle rental system with reservation logic and admin features  
+- 🚗 [**DrivePoint**](https://github.com/fexilamos/drivepoint) – A Laravel-based vehicle rental system with reservation logic and admin features  
 - 📚 [**TrabalhoGestaoBibliotecaV2.0**](https://github.com/fexilamos/TrabalhoGestaoBibliotecaV2.0) – A functional library management system  
 - 🍽️ [**MenuRestauranteAndroid**](https://github.com/fexilamos/MenuRestauranteAndroid) – An Android app for browsing restaurant items with images, prices, and order summary
 
